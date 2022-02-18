@@ -60,7 +60,7 @@ Deleta arquivos.
 
 
 
-### Comando "rmdir"/""
+### Comando "rmdir"
 
 Remove o repositório.
 
